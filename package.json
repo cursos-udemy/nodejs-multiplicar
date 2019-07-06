@@ -1,0 +1,15 @@
+{
+  "name": "seccion-04",
+  "version": "1.0.0",
+  "description": "Aplicacion de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gwfernandez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.4"
+  }
+}
